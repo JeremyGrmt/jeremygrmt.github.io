@@ -1,0 +1,13 @@
+body { padding-top: 50px; }
+/**************************************** 
+*     En-tête de l'accueil
+****************************************/ 
+.jumbotron .container{
+   align-content: flex-start;
+    margin-left: 0;
+    width: 50%;
+} 
+    
+#maPhoto {
+    margin: 5px;
+}
