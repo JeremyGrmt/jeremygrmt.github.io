@@ -9,5 +9,6 @@ body { padding-top: 50px; }
 } 
     
 #maPhoto {
+    width: 125px; height: 125px;
     margin: 5px;
 }
